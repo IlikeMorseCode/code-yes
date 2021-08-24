@@ -1,0 +1,31 @@
+.Willie{
+	text-align: center;
+   font: serif;
+   color: darkred;
+   font-size: auto;
+}
+
+#title{
+	height: 170px;
+	width: 170px;
+	background: black;
+
+}
+.lists{
+	font: sans-serif;
+	color: white;
+}
+
+#pussy{
+	margin-top: 90px;
+	margin-right: 90px;
+	height: auto;
+	width: auto;
+	background-color: black;
+
+}
+
+body{
+	background-color: black;
+	color: black;
+}
